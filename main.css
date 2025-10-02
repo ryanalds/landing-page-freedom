@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(imagens/leao-logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    margin-bottom: 10em;
+}
+
+header h1{
+    text-align: center;        
+    margin: 1em;
+}
+
+main div a{
+    text-decoration: none;
+    color: black;
+}
+main div{
+    background: linear-gradient(to right, #FFC921af, #C1912Baf);
+    margin: 2em;
+    padding: 1em;
+    border-radius: 15px;
+    display: flex;
+
+    box-sizing: border-box;
+}
+
+main div img{
+    margin-left: 2em;
+    margin-right: 2em;
+    
+}
+
+main div span{
+    font-size: 30px;
+    display: flex;
+    align-items:center ;
+
+}
+
+
+
